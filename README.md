@@ -26,4 +26,6 @@ Made By Vnxz/Xenor
 
 *1/1/24 new years update part 1 and major bug fixes*
 
+*1/1/24 new years update part 2, bug fixes, new trusted user room, new TEMP player model.
+
 *tbd*
